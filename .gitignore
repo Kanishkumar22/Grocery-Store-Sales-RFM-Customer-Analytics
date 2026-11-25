@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional: uncomment if you generate the SQLite DB locally and don't want to push it
+# *.db
+# *.sqlite
+# *.sqlite3
