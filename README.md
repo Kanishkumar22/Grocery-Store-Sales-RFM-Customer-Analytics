@@ -27,7 +27,7 @@ Retail and grocery businesses rely on repeat footfall, staple item volume, and t
 
 ## Repository Structure
 * `Project_Grocery (4).ipynb` — Main Python and SQLite analysis notebook covering category performance, monthly trends, spend distributions/outliers, and RFM customer segmentation.
-* `Grocery Store Data.xlsx` — Transaction dataset used for analysis.
+* `Grocery_Store_Data.xlsx` — Transaction dataset used for analysis.
 * `grocery_store_data_project (1).xlsx` — Excel workbook featuring Pivot Tables and Conditional Formatting analysis.
 * `requirements.txt` — Python dependencies required to run the notebook.
 * `.gitignore` — Specifies untracked/temporary files ignored by Git.
@@ -35,5 +35,5 @@ Retail and grocery businesses rely on repeat footfall, staple item volume, and t
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/Kanishkumar22/Grocery-Store-Sales-RFM-Customer-Analytics
+   cd Grocery-Store-Sales-RFM-Customer-Analytics
